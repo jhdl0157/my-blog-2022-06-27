@@ -1,11 +1,16 @@
 import React from "react";
+import Head from "../components/head";
+
 
 function TestPage() {
   return (
-<main>
-    <title>테스트</title>
-    <h1>테스트 페이지 입니다.</h1>
-   </main>
+    <main>
+      <title>TestPage</title>
+
+      <Head />
+
+      <h1>TestPage</h1>
+    </main>
   );
 }
 
