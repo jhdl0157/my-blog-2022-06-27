@@ -15,7 +15,7 @@ function BlogPage() {
 
   return (
     <Layout pageTitle="My Blog Posts">
-      <p>뇌장하드에 저장할것들</p>
+      <p>My cool posts will go in here</p>
 
       <ul>
         {data.allFile.nodes.map((node) => (
