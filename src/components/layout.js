@@ -33,7 +33,7 @@ function Layout({ pageTitle, children }) {
         {children}
       </main>
 
-      <div>Copyright All Rights</div>
+      <div>Bye~~</div>
     </div>
   );
 }
