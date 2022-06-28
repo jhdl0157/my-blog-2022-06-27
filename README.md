@@ -8,6 +8,7 @@
 </h1>
 
 ## 🚀 Quick start
+### 블로그 URL https://myblog20220627master77691.gtsb.io/
 
 1.  **Create a Gatsby site.**
 
