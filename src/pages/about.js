@@ -1,5 +1,6 @@
 import React from "react";
-import Head from "../components/head";
+import Layout from "../components/layout";
+
 
 
 function AboutPage() {
@@ -7,8 +8,9 @@ function AboutPage() {
     <main>
       <title>AboutPage</title>
 
-      <Head />
+      <Layout>
       <h1>AboutPage</h1>
+      </Layout>
     </main>
   );
 }
